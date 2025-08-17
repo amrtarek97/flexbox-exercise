@@ -7,6 +7,7 @@
 .container{
         background-color: #1F2937 ;
         height: 100vh;
+        padding: 0 200px;
 
 }
 header{
@@ -36,4 +37,8 @@ nav>ul>li{
 }
 nav a{
     color: white;
+}
+
+.hero-image {
+    width: 100%;
 }
