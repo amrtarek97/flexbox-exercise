@@ -171,3 +171,13 @@ q{
     font-weight: 700;
     cursor: pointer;
 }
+
+/*footer*/
+
+footer{
+    background-color: #1F2937;
+    color: #E5E7EB;
+    text-align: center;
+    padding: 50px 0;
+    font-size: 18px;
+}
