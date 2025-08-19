@@ -139,3 +139,35 @@ q{
     font-size: 18px;
     font-weight: 900;
 }
+
+/*action section*/
+.action-container{
+    height: auto;
+}
+.card{
+    padding: 70px 100px;
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: 200px auto;
+    background-color: #3882F6;
+    border-radius: 10px;
+    color: #F9FAF8;
+}
+.action-text{
+    color: #E5E7EB;
+}
+.action-header{
+    font-size: 24px;
+    font-weight: 700;
+}
+.action-btn{
+    padding: 0 32px;
+    background-color: transparent;
+    border: #F9FAF8 3px solid;
+    border-radius: 5px;
+    color: #F9FAF8;
+    font-size: 18px;
+    font-weight: 700;
+    cursor: pointer;
+}
